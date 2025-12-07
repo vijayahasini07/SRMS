@@ -1,0 +1,2 @@
+# SRMS
+this tells about STUDENT REPORT MANAGEMENT SYSTEM 
